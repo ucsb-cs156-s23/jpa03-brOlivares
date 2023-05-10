@@ -1,5 +1,4 @@
 # STARTER-jpa03
-
 ```
 TODO: Change link below from the example running app to your own running app
 For example, you might change it to:
